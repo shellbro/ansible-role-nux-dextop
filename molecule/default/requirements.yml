@@ -1,0 +1,4 @@
+---
+
+- src: https://github.com/shellbro/ansible-role-epel.git
+  name: shellbro.epel
