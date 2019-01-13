@@ -3,7 +3,7 @@ shellbro.nux-dextop
 
 [![Build Status](https://travis-ci.org/shellbro/ansible-role-nux-dextop.svg?branch=master)](https://travis-ci.org/shellbro/ansible-role-nux-dextop)
 
-Ansible role for adding nux-dextop repository (CentOS 7).
+Ansible role for adding Nux Dextop repository (CentOS 7).
 
 Requirements
 ------------
@@ -13,7 +13,7 @@ None
 Role Variables
 --------------
 
-* rpm_url - URL to nux-dextop RPM (required)
+* rpm_url - URL to Nux Dextop RPM (required)
 
 Dependencies
 ------------

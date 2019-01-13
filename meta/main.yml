@@ -2,7 +2,7 @@
 
 galaxy_info:
   author: Jakub Gorczyca
-  description: Ansible role for adding nux-dextop repository (CentOS 7).
+  description: Ansible role for adding Nux Dextop repository (CentOS 7).
 
   issue_tracker_url: https://github.com/shellbro/ansible-role-nux-dextop/issues
 
