@@ -1,5 +1,10 @@
 ---
 
+- name: add Nux Dextop GPG key
+  rpm_key:
+    key: http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+  become: true
+
 - name: add nux-dextop repository
   yum:
     name: '{{ rpm_url }}'
